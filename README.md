@@ -1,17 +1,17 @@
 # JWT-Basics
 
-## Coverd Topic in this repo
+## Covered Topic in this repo
 - How to use jsonwebtoken (package)
 - How to build custom error
-- How to use http-status-code (package)
+- How to use http-status-codes (package)
 
 ## Use Technologies
 - NodeJS
 - ExpressJs
 - jsonwebtoken
 - dotenv
-- http-status-code
+- http-status-codes
 
 ## How to use this in localhost
-- create `.env` file
+- create a `.env` file
 - add `JWT_SECRET` in the `.env` file
